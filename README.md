@@ -1,5 +1,10 @@
 # Advanced Password Auditor & Generator
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ianyosho-cyber-auditor.streamlit.app/)
+[![GitHub license](https://img.shields.io/github/license/IanYosho/06_advanced-password-auditor-lab)](LICENSE)
+
+> 🚀 **Live Demo:** Access the interactive web tool at [ianyosho-cyber-auditor.streamlit.app](https://ianyosho-cyber-auditor.streamlit.app/)
+
 This tool evaluates the cryptographic strength of passwords by calculating their theoretical entropy and validating them against known data breaches. To ensure absolute privacy, the tool utilizes the Have I Been Pwned (HIBP) API via the k-Anonymity model, transmitting only the first 5 characters of a SHA-1 hash over the network.
 
 ## 🎯 Objectives
